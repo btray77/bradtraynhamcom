@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <atom:link href="https://script.google.com/macros/s/AKfycbyRHZCTk3NcsUI5fwu5RYWPZ_l7ZvTYA93rlSdY0xw/dev?cow" rel="self" type="application/rss+xml" />
+    <title>YouTube RSS Feed for cow</title>
+    <link>https://www.youtube.com/results?search_query=cow</link>
+    <description>RSS 2.0 Feed</description>
+    <language>en</language>
+    <item>
+      <id>sStFayR2AkI</id>
+      <ytvideo>sStFayR2AkI</ytvideo>
+      <title>Funny cow  fighting mp4</title>
+      <link>http://www.youtube.com/watch?v=sStFayR2AkI</link>
+      <pubDate>Wed, 31 Dec 1969 18:00:00 -0600</pubDate>
+      <media:group xmlns:media="http://search.yahoo.com/mrss/">
+        <media:title>Funny cow  fighting mp4</media:title>
+        <media:content url="http://www.youtube.com/watch?v=sStFayR2AkI" width="640" height="390" />
+        <media:thumbnail url="https://i.ytimg.com/vi/sStFayR2AkI/mqdefault.jpg" width="480" height="360" />
+        <media:description>Wow amazing cow fighting with women....................</media:description>
+      </media:group>
+    </item>
+    <item>
+      <id>tsMZ3pihLd0</id>
+      <ytvideo>tsMZ3pihLd0</ytvideo>
+      <title>Intelligent Technology Smart Farming Automatic Goat Sheep Cow Milking Machine, Feeding, Cleaning</title>
+      <link>http://www.youtube.com/watch?v=tsMZ3pihLd0</link>
+      <pubDate>Wed, 31 Dec 1969 18:00:00 -0600</pubDate>
+      <media:group xmlns:media="http://search.yahoo.com/mrss/">
+        <media:title>Intelligent Technology Smart Farming Automatic Goat Sheep Cow Milking Machine, Feeding, Cleaning</media:title>
+        <media:content url="http://www.youtube.com/watch?v=tsMZ3pihLd0" width="640" height="390" />
+        <media:thumbnail url="https://i.ytimg.com/vi/tsMZ3pihLd0/mqdefault.jpg" width="480" height="360" />
+        <media:description>Intelligent Technology Smart Farming Automatic Goat Sheep Cow Milking Machine, Feeding, Cleaning Intelligent Technology Smart Farming Automatic Goat ...</media:description>
+      </media:group>
+    </item>
+  </channel>
+</rss>
